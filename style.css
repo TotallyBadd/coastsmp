@@ -6,7 +6,7 @@
 body {
     font-family: 'Arial', sans-serif;
     color: white;
-    background: url('image(1).png') no-repeat center center fixed;
+    background: url('https://media.discordapp.net/attachments/1299798910738501643/1310962911199629343/AB47F806-7ADD-4D03-A92B-3D028B653527.png?ex=674720da&is=6745cf5a&hm=f5fd412ace8121f100594e0f189995ea9693b4539489acbb13b5ae9305a447d1&=&format=webp&quality=lossless&width=687&height=386') no-repeat center center fixed;
     background-size: cover;
     backdrop-filter: blur(15px);
 }
